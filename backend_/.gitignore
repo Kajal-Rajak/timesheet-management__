@@ -1,3 +1,4 @@
+# Project-specific
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -24,10 +25,15 @@ target/
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
+.nb-gradle/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+
+### Angular / Node ###
+frontend_/frontend/.angular/cache/
+frontend_/frontend/node_modules/
+frontend_/frontend/dist/
