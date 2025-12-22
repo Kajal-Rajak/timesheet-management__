@@ -1,0 +1,14 @@
+# Angular / Node
+frontend_/frontend/.angular/cache/
+frontend_/frontend/node_modules/
+frontend_/frontend/dist/
+
+# Java / Maven
+backend_/.mvn/wrapper/maven-wrapper.jar
+target/
+build/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
