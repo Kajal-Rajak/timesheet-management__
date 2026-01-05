@@ -1,5 +1,5 @@
 
-# TimeManagement System
+# Timesheet Management System
 
 A full-stack application for managing employee hierarchies with Spring Boot backend and Angular frontend.
 
